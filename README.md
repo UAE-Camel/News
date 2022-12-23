@@ -6,7 +6,7 @@ The AI Engine runs on every 15 minutes, ensuring that the most recent topics are
 With this repository, you can stay informed on the latest news and events happening in United Arab Emirates.**
 
 
-📆 Last Updated: `2022-12-23 07:03:38 UTC`
+📆 Last Updated: `2022-12-23 07:04:26 UTC`
 
 🔧 Updated every 15 minutes!
 
@@ -17,12 +17,13 @@ This is last 20 news
 
 | Topic | Twitter | Date |
 | ------------ | --- | ------- |
-| [Emirati, Kazakh relations a successful model of bilateral cooperation: Ambassador of Kazakhstan](https://github.com/UAE-Camel/News/blob/main/markdown/1395303113724.md) | [🐦](https://twitter.com/UAECamelNews/status/) | 2022-12-23T07:03:38
-| [Hamdan bin Zayed inaugurates new waterfront destinations in Al Dhafra, Mugheirah Bay, Mamsha Al Mugheirah](https://github.com/UAE-Camel/News/blob/main/markdown/1395303113733.md) | [🐦](https://twitter.com/UAECamelNews/status/) | 2022-12-23T07:03:38
-| [Fujairah Chamber discusses promoting trade relations with Belgium](https://github.com/UAE-Camel/News/blob/main/markdown/1395303113759.md) | [🐦](https://twitter.com/UAECamelNews/status/) | 2022-12-23T07:03:38
-| [ADEK selects 1st cohort of Khotwa scholarship programme for international study](https://github.com/UAE-Camel/News/blob/main/markdown/1395303113832.md) | [🐦](https://twitter.com/UAECamelNews/status/) | 2022-12-23T07:03:38
-| [India to reintroduce airport surveillance measures against COVID-19](https://github.com/UAE-Camel/News/blob/main/markdown/1395303113867.md) | [🐦](https://twitter.com/UAECamelNews/status/) | 2022-12-23T07:03:38
-| [Abdullah bin Zayed receives Greek counterpart](https://github.com/UAE-Camel/News/blob/main/markdown/1395303113885.md) | [🐦](https://twitter.com/UAECamelNews/status/) | 2022-12-23T07:03:38
+| [Sharjah Youth launches 'Winter Camp' activities](https://github.com/UAE-Camel/News/blob/main/markdown/1395303113704.md) | [🐦](https://twitter.com/UAECamelNews/status/) | 2022-12-23T07:04:26
+| [Emirati, Kazakh relations a successful model of bilateral cooperation: Ambassador of Kazakhstan](https://github.com/UAE-Camel/News/blob/main/markdown/1395303113724.md) | [🐦](https://twitter.com/UAECamelNews/status/) | 2022-12-23T07:04:26
+| [Hamdan bin Zayed inaugurates new waterfront destinations in Al Dhafra, Mugheirah Bay, Mamsha Al Mugheirah](https://github.com/UAE-Camel/News/blob/main/markdown/1395303113733.md) | [🐦](https://twitter.com/UAECamelNews/status/) | 2022-12-23T07:04:26
+| [Fujairah Chamber discusses promoting trade relations with Belgium](https://github.com/UAE-Camel/News/blob/main/markdown/1395303113759.md) | [🐦](https://twitter.com/UAECamelNews/status/) | 2022-12-23T07:04:26
+| [ADEK selects 1st cohort of Khotwa scholarship programme for international study](https://github.com/UAE-Camel/News/blob/main/markdown/1395303113832.md) | [🐦](https://twitter.com/UAECamelNews/status/) | 2022-12-23T07:04:26
+| [India to reintroduce airport surveillance measures against COVID-19](https://github.com/UAE-Camel/News/blob/main/markdown/1395303113867.md) | [🐦](https://twitter.com/UAECamelNews/status/) | 2022-12-23T07:04:26
+| [Abdullah bin Zayed receives Greek counterpart](https://github.com/UAE-Camel/News/blob/main/markdown/1395303113885.md) | [🐦](https://twitter.com/UAECamelNews/status/) | 2022-12-23T07:04:26
 
 
 

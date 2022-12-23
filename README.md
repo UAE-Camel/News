@@ -6,7 +6,7 @@ The AI Engine runs on every 15 minutes, ensuring that the most recent topics are
 With this repository, you can stay informed on the latest news and events happening in United Arab Emirates.**
 
 
-📆 Last Updated: `2022-12-23 07:01:44 UTC`
+📆 Last Updated: `2022-12-23 07:02:13 UTC`
 
 🔧 Updated every 15 minutes!
 
@@ -17,8 +17,9 @@ This is last 20 news
 
 | Topic | Twitter | Date |
 | ------------ | --- | ------- |
-| [India to reintroduce airport surveillance measures against COVID-19](https://github.com/UAE-Camel/News/blob/main/markdown/1395303113867.md) | [🐦](https://twitter.com/UAECamelNews/status/) | 2022-12-23T07:01:44
-| [Abdullah bin Zayed receives Greek counterpart](https://github.com/UAE-Camel/News/blob/main/markdown/1395303113885.md) | [🐦](https://twitter.com/UAECamelNews/status/) | 2022-12-23T07:01:44
+| [ADEK selects 1st cohort of Khotwa scholarship programme for international study](https://github.com/UAE-Camel/News/blob/main/markdown/1395303113832.md) | [🐦](https://twitter.com/UAECamelNews/status/) | 2022-12-23T07:02:13
+| [India to reintroduce airport surveillance measures against COVID-19](https://github.com/UAE-Camel/News/blob/main/markdown/1395303113867.md) | [🐦](https://twitter.com/UAECamelNews/status/) | 2022-12-23T07:02:13
+| [Abdullah bin Zayed receives Greek counterpart](https://github.com/UAE-Camel/News/blob/main/markdown/1395303113885.md) | [🐦](https://twitter.com/UAECamelNews/status/) | 2022-12-23T07:02:13
 
 
 

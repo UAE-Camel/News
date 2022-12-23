@@ -6,7 +6,7 @@ The AI Engine runs on every 15 minutes, ensuring that the most recent topics are
 With this repository, you can stay informed on the latest news and events happening in United Arab Emirates.**
 
 
-📆 Last Updated: `2022-12-23 12:31:55 UTC`
+📆 Last Updated: `2022-12-23 12:33:18 UTC`
 
 🔧 Updated every 15 minutes!
 
@@ -17,19 +17,20 @@ This is last 20 news
 
 | Topic | Twitter | Date |
 | ------------ | --- | ------- |
-| [UAE Public Prosecution arrests company director who faked employment of over 40 Emiratis](https://github.com/UAE-Camel/News/blob/main/markdown/1395303113992.md) | [🐦](https://twitter.com/UAECamelNews/status/1606266348916690945) | 2022-12-23T12:31:55
-| [Sharjah Youth launches 'Winter Camp' activities](https://github.com/UAE-Camel/News/blob/main/markdown/1395303113704.md) | [🐦](https://twitter.com/UAECamelNews/status/1606266348916690945) | 2022-12-23T12:31:55
-| [Emirati, Kazakh relations a successful model of bilateral cooperation: Ambassador of Kazakhstan](https://github.com/UAE-Camel/News/blob/main/markdown/1395303113724.md) | [🐦](https://twitter.com/UAECamelNews/status/1606266348916690945) | 2022-12-23T12:31:55
-| [Hamdan bin Zayed inaugurates new waterfront destinations in Al Dhafra, Mugheirah Bay, Mamsha Al Mugheirah](https://github.com/UAE-Camel/News/blob/main/markdown/1395303113733.md) | [🐦](https://twitter.com/UAECamelNews/status/1606266348916690945) | 2022-12-23T12:31:55
-| [Fujairah Chamber discusses promoting trade relations with Belgium](https://github.com/UAE-Camel/News/blob/main/markdown/1395303113759.md) | [🐦](https://twitter.com/UAECamelNews/status/1606266348916690945) | 2022-12-23T12:31:55
-| [ADEK selects 1st cohort of Khotwa scholarship programme for international study](https://github.com/UAE-Camel/News/blob/main/markdown/1395303113832.md) | [🐦](https://twitter.com/UAECamelNews/status/1606266348916690945) | 2022-12-23T12:31:55
-| [India to reintroduce airport surveillance measures against COVID-19](https://github.com/UAE-Camel/News/blob/main/markdown/1395303113867.md) | [🐦](https://twitter.com/UAECamelNews/status/1606266348916690945) | 2022-12-23T12:31:55
-| [Abdullah bin Zayed receives Greek counterpart](https://github.com/UAE-Camel/News/blob/main/markdown/1395303113885.md) | [🐦](https://twitter.com/UAECamelNews/status/1606266348916690945) | 2022-12-23T12:31:55
-| [Abdullah bin Zayed receives Brunei Darussalam's Second Minister of Foreign Affairs](https://github.com/UAE-Camel/News/blob/main/markdown/1395303113923.md) | [🐦](https://twitter.com/UAECamelNews/status/1606266348916690945) | 2022-12-23T12:31:55
-| [Department of Health – Abu Dhabi boosts sector’s preparedness for cyber challenges](https://github.com/UAE-Camel/News/blob/main/markdown/1395303113942.md) | [🐦](https://twitter.com/UAECamelNews/status/1606266348916690945) | 2022-12-23T12:31:55
-| [UAE Ambassador presents credentials to President of Côte d'Ivoire​](https://github.com/UAE-Camel/News/blob/main/markdown/1395303113950.md) | [🐦](https://twitter.com/UAECamelNews/status/1606266348916690945) | 2022-12-23T12:31:55
-| [Dubai Foundation for Women and Children launches WhatsApp service](https://github.com/UAE-Camel/News/blob/main/markdown/1395303113952.md) | [🐦](https://twitter.com/UAECamelNews/status/1606266348916690945) | 2022-12-23T12:31:55
-| [Hamdan bin Rashid Al Maktoum Foundation for Distinguished Academic Performance unveils results of its local awards](https://github.com/UAE-Camel/News/blob/main/markdown/1395303113970.md) | [🐦](https://twitter.com/UAECamelNews/status/1606266348916690945) | 2022-12-23T12:31:55
+| [Shurooq opens latest beachfront destination  in Sharjah Al Heera Beach](https://github.com/UAE-Camel/News/blob/main/markdown/1395303113698.md) | [🐦](https://twitter.com/UAECamelNews/status/1606266696855060481) | 2022-12-23T12:33:18
+| [UAE Public Prosecution arrests company director who faked employment of over 40 Emiratis](https://github.com/UAE-Camel/News/blob/main/markdown/1395303113992.md) | [🐦](https://twitter.com/UAECamelNews/status/1606266696855060481) | 2022-12-23T12:33:18
+| [Sharjah Youth launches 'Winter Camp' activities](https://github.com/UAE-Camel/News/blob/main/markdown/1395303113704.md) | [🐦](https://twitter.com/UAECamelNews/status/1606266696855060481) | 2022-12-23T12:33:18
+| [Emirati, Kazakh relations a successful model of bilateral cooperation: Ambassador of Kazakhstan](https://github.com/UAE-Camel/News/blob/main/markdown/1395303113724.md) | [🐦](https://twitter.com/UAECamelNews/status/1606266696855060481) | 2022-12-23T12:33:18
+| [Hamdan bin Zayed inaugurates new waterfront destinations in Al Dhafra, Mugheirah Bay, Mamsha Al Mugheirah](https://github.com/UAE-Camel/News/blob/main/markdown/1395303113733.md) | [🐦](https://twitter.com/UAECamelNews/status/1606266696855060481) | 2022-12-23T12:33:18
+| [Fujairah Chamber discusses promoting trade relations with Belgium](https://github.com/UAE-Camel/News/blob/main/markdown/1395303113759.md) | [🐦](https://twitter.com/UAECamelNews/status/1606266696855060481) | 2022-12-23T12:33:18
+| [ADEK selects 1st cohort of Khotwa scholarship programme for international study](https://github.com/UAE-Camel/News/blob/main/markdown/1395303113832.md) | [🐦](https://twitter.com/UAECamelNews/status/1606266696855060481) | 2022-12-23T12:33:18
+| [India to reintroduce airport surveillance measures against COVID-19](https://github.com/UAE-Camel/News/blob/main/markdown/1395303113867.md) | [🐦](https://twitter.com/UAECamelNews/status/1606266696855060481) | 2022-12-23T12:33:18
+| [Abdullah bin Zayed receives Greek counterpart](https://github.com/UAE-Camel/News/blob/main/markdown/1395303113885.md) | [🐦](https://twitter.com/UAECamelNews/status/1606266696855060481) | 2022-12-23T12:33:18
+| [Abdullah bin Zayed receives Brunei Darussalam's Second Minister of Foreign Affairs](https://github.com/UAE-Camel/News/blob/main/markdown/1395303113923.md) | [🐦](https://twitter.com/UAECamelNews/status/1606266696855060481) | 2022-12-23T12:33:18
+| [Department of Health – Abu Dhabi boosts sector’s preparedness for cyber challenges](https://github.com/UAE-Camel/News/blob/main/markdown/1395303113942.md) | [🐦](https://twitter.com/UAECamelNews/status/1606266696855060481) | 2022-12-23T12:33:18
+| [UAE Ambassador presents credentials to President of Côte d'Ivoire​](https://github.com/UAE-Camel/News/blob/main/markdown/1395303113950.md) | [🐦](https://twitter.com/UAECamelNews/status/1606266696855060481) | 2022-12-23T12:33:18
+| [Dubai Foundation for Women and Children launches WhatsApp service](https://github.com/UAE-Camel/News/blob/main/markdown/1395303113952.md) | [🐦](https://twitter.com/UAECamelNews/status/1606266696855060481) | 2022-12-23T12:33:18
+| [Hamdan bin Rashid Al Maktoum Foundation for Distinguished Academic Performance unveils results of its local awards](https://github.com/UAE-Camel/News/blob/main/markdown/1395303113970.md) | [🐦](https://twitter.com/UAECamelNews/status/1606266696855060481) | 2022-12-23T12:33:18
 
 
 

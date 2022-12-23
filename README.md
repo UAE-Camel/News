@@ -6,7 +6,7 @@ The AI Engine runs on every 15 minutes, ensuring that the most recent topics are
 With this repository, you can stay informed on the latest news and events happening in United Arab Emirates.**
 
 
-📆 Last Updated: `2022-12-23 06:43:04 UTC`
+📆 Last Updated: `2022-12-23 06:47:32 UTC`
 
 🔧 Updated every 15 minutes!
 
@@ -17,12 +17,7 @@ This is last 20 news
 
 | Topic | Twitter | Date |
 | ------------ | --- | ------- |
-| [100 industrial leaders graduate from joint MoIAT-MBZUAI Leadership 4.0 training programme](https://github.com/UAE-Camel/News/blob/main/markdown/1395303113657.md) | [🐦](https://twitter.com/UAECamelNews/status/) | 2022-12-23T06:43:04
-| [Dubai Future Foundation launches new report on future of the metaverse](https://github.com/UAE-Camel/News/blob/main/markdown/1395303113683.md) | [🐦](https://twitter.com/UAECamelNews/status/) | 2022-12-23T06:43:04
-| [50th anniversary year of Japan-UAE ties finds increased official interactions, new era of cultural relations: Japanese envoy](https://github.com/UAE-Camel/News/blob/main/markdown/1395303113687.md) | [🐦](https://twitter.com/UAECamelNews/status/) | 2022-12-23T06:43:04
-| [Shurooq opens latest beachfront destination  in Sharjah Al Heera Beach](https://github.com/UAE-Camel/News/blob/main/markdown/1395303113698.md) | [🐦](https://twitter.com/UAECamelNews/status/) | 2022-12-23T06:43:04
-| [Sharjah Youth launches 'Winter Camp' activities](https://github.com/UAE-Camel/News/blob/main/markdown/1395303113704.md) | [🐦](https://twitter.com/UAECamelNews/status/) | 2022-12-23T06:43:04
-| [Emirati, Kazakh relations a successful model of bilateral cooperation: Ambassador of Kazakhstan](https://github.com/UAE-Camel/News/blob/main/markdown/1395303113724.md) | [🐦](https://twitter.com/UAECamelNews/status/) | 2022-12-23T06:43:04
+| [India to reintroduce airport surveillance measures against COVID-19](https://github.com/UAE-Camel/News/blob/main/markdown/1395303113867.md) | [🐦](https://twitter.com/UAECamelNews/status/1606179678364090368) | 2022-12-23T06:47:32
 
 
 

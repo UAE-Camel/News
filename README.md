@@ -6,7 +6,7 @@ The AI Engine runs on every 15 minutes, ensuring that the most recent topics are
 With this repository, you can stay informed on the latest news and events happening in United Arab Emirates.**
 
 
-📆 Last Updated: `2022-12-23 06:12:59 UTC`
+📆 Last Updated: `2022-12-23 06:21:17 UTC`
 
 🔧 Updated every 15 minutes!
 
@@ -17,9 +17,10 @@ This is last 20 news
 
 | Topic | Twitter | Date |
 | ------------ | --- | ------- |
-| [Hamdan bin Zayed inaugurates new waterfront destinations in Al Dhafra, Mugheirah Bay, Mamsha Al Mugheirah](https://github.com/UAE-Camel/News/blob/main/markdown/1395303113733.md) | [🐦](https://twitter.com/UAECamelNews/status/1606170971030822913) | 2022-12-23T06:12:59
-| [ADEK selects 1st cohort of Khotwa scholarship programme for international study](https://github.com/UAE-Camel/News/blob/main/markdown/1395303113832.md) | [🐦](https://twitter.com/UAECamelNews/status/1606170971030822913) | 2022-12-23T06:12:59
-| [Fujairah Chamber discusses promoting trade relations with Belgium](https://github.com/UAE-Camel/News/blob/main/markdown/1395303113759.md) | [🐦](https://twitter.com/UAECamelNews/status/1606170971030822913) | 2022-12-23T06:12:59
+| [India to reintroduce airport surveillance measures against COVID-19](https://github.com/UAE-Camel/News/blob/main/markdown/1395303113867.md) | [🐦](https://twitter.com/UAECamelNews/status/) | 2022-12-23T06:21:17
+| [Hamdan bin Zayed inaugurates new waterfront destinations in Al Dhafra, Mugheirah Bay, Mamsha Al Mugheirah](https://github.com/UAE-Camel/News/blob/main/markdown/1395303113733.md) | [🐦](https://twitter.com/UAECamelNews/status/) | 2022-12-23T06:21:17
+| [ADEK selects 1st cohort of Khotwa scholarship programme for international study](https://github.com/UAE-Camel/News/blob/main/markdown/1395303113832.md) | [🐦](https://twitter.com/UAECamelNews/status/) | 2022-12-23T06:21:17
+| [Fujairah Chamber discusses promoting trade relations with Belgium](https://github.com/UAE-Camel/News/blob/main/markdown/1395303113759.md) | [🐦](https://twitter.com/UAECamelNews/status/) | 2022-12-23T06:21:17
 
 
 

@@ -6,7 +6,7 @@ The AI Engine runs on every 15 minutes, ensuring that the most recent topics are
 With this repository, you can stay informed on the latest news and events happening in United Arab Emirates.**
 
 
-📆 Last Updated: `2022-12-23 11:10:03 UTC`
+📆 Last Updated: `2022-12-23 11:13:01 UTC`
 
 🔧 Updated every 15 minutes!
 
@@ -17,7 +17,8 @@ This is last 20 news
 
 | Topic | Twitter | Date |
 | ------------ | --- | ------- |
-| [Hamdan bin Rashid Al Maktoum Foundation for Distinguished Academic Performance unveils results of its local awards](https://github.com/UAE-Camel/News/blob/main/markdown/1395303113970.md) | [🐦](https://twitter.com/UAECamelNews/status/1606245699858857984) | 2022-12-23T11:10:03
+| [Dubai Foundation for Women and Children launches WhatsApp service](https://github.com/UAE-Camel/News/blob/main/markdown/1395303113952.md) | [🐦](https://twitter.com/UAECamelNews/status/1606246490212540420) | 2022-12-23T11:13:01
+| [Hamdan bin Rashid Al Maktoum Foundation for Distinguished Academic Performance unveils results of its local awards](https://github.com/UAE-Camel/News/blob/main/markdown/1395303113970.md) | [🐦](https://twitter.com/UAECamelNews/status/1606246490212540420) | 2022-12-23T11:13:01
 
 
 

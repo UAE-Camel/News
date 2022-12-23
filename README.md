@@ -6,7 +6,7 @@ The AI Engine runs on every 15 minutes, ensuring that the most recent topics are
 With this repository, you can stay informed on the latest news and events happening in United Arab Emirates.**
 
 
-📆 Last Updated: `2022-12-23 07:18:24 UTC`
+📆 Last Updated: `2022-12-23 11:10:03 UTC`
 
 🔧 Updated every 15 minutes!
 
@@ -17,7 +17,7 @@ This is last 20 news
 
 | Topic | Twitter | Date |
 | ------------ | --- | ------- |
-| [Abdullah bin Zayed receives Greek counterpart](https://github.com/UAE-Camel/News/blob/main/markdown/1395303113885.md) | [🐦](https://twitter.com/UAECamelNews/status/1606187450539319298) | 2022-12-23T07:18:24
+| [Hamdan bin Rashid Al Maktoum Foundation for Distinguished Academic Performance unveils results of its local awards](https://github.com/UAE-Camel/News/blob/main/markdown/1395303113970.md) | [🐦](https://twitter.com/UAECamelNews/status/1606245699858857984) | 2022-12-23T11:10:03
 
 
 

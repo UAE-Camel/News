@@ -6,18 +6,18 @@ The AI Engine runs on every 15 minutes, ensuring that the most recent topics are
 With this repository, you can stay informed on the latest news and events happening in United Arab Emirates.**
 
 
-📆 Last Updated: `2022-12-22 16:40:51 UTC`
+📆 Last Updated: `2022-12-23 05:40:17 UTC`
 
 🔧 Updated every 15 minutes!
 
 
 ## News
 
-This is last 10 news
+This is last 20 news
 
 | Topic | Twitter | Date |
 | ------------ | --- | ------- |
-| [Emirati, Kazakh relations a successful model of bilateral cooperation: Ambassador of Kazakhstan](https://github.com/UAE-Camel/News/markdown/1395303113724.md) | [🐦](https://twitter.com/UAECamelNews/status/1605966603132313600) | 2022-12-22T16:40:51
+| [Fujairah Chamber discusses promoting trade relations with Belgium](https://github.com/UAE-Camel/News/blob/main/markdown/1395303113759.md) | [🐦](https://twitter.com/UAECamelNews/status/1606162703445262336) | 2022-12-23T05:40:17
 
 
 

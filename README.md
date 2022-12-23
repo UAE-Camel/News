@@ -6,7 +6,7 @@ The AI Engine runs on every 15 minutes, ensuring that the most recent topics are
 With this repository, you can stay informed on the latest news and events happening in United Arab Emirates.**
 
 
-📆 Last Updated: `2022-12-23 06:22:16 UTC`
+📆 Last Updated: `2022-12-23 06:23:44 UTC`
 
 🔧 Updated every 15 minutes!
 
@@ -17,11 +17,12 @@ This is last 20 news
 
 | Topic | Twitter | Date |
 | ------------ | --- | ------- |
-| [Hamdan bin Zayed inaugurates new waterfront destinations in Al Dhafra, Mugheirah Bay, Mamsha Al Mugheirah](https://github.com/UAE-Camel/News/blob/main/markdown/1395303113733.md) | [🐦](https://twitter.com/UAECamelNews/status/) | 2022-12-23T06:22:16
-| [India to reintroduce airport surveillance measures against COVID-19](https://github.com/UAE-Camel/News/blob/main/markdown/1395303113867.md) | [🐦](https://twitter.com/UAECamelNews/status/) | 2022-12-23T06:22:16
-| [Hamdan bin Zayed inaugurates new waterfront destinations in Al Dhafra, Mugheirah Bay, Mamsha Al Mugheirah](https://github.com/UAE-Camel/News/blob/main/markdown/1395303113733.md) | [🐦](https://twitter.com/UAECamelNews/status/) | 2022-12-23T06:22:16
-| [ADEK selects 1st cohort of Khotwa scholarship programme for international study](https://github.com/UAE-Camel/News/blob/main/markdown/1395303113832.md) | [🐦](https://twitter.com/UAECamelNews/status/) | 2022-12-23T06:22:16
-| [Fujairah Chamber discusses promoting trade relations with Belgium](https://github.com/UAE-Camel/News/blob/main/markdown/1395303113759.md) | [🐦](https://twitter.com/UAECamelNews/status/) | 2022-12-23T06:22:16
+| [Hamdan bin Zayed inaugurates new waterfront destinations in Al Dhafra, Mugheirah Bay, Mamsha Al Mugheirah](https://github.com/UAE-Camel/News/blob/main/markdown/1395303113733.md) | [🐦](https://twitter.com/UAECamelNews/status/) | 2022-12-23T06:23:44
+| [Hamdan bin Zayed inaugurates new waterfront destinations in Al Dhafra, Mugheirah Bay, Mamsha Al Mugheirah](https://github.com/UAE-Camel/News/blob/main/markdown/1395303113733.md) | [🐦](https://twitter.com/UAECamelNews/status/) | 2022-12-23T06:23:44
+| [India to reintroduce airport surveillance measures against COVID-19](https://github.com/UAE-Camel/News/blob/main/markdown/1395303113867.md) | [🐦](https://twitter.com/UAECamelNews/status/) | 2022-12-23T06:23:44
+| [Hamdan bin Zayed inaugurates new waterfront destinations in Al Dhafra, Mugheirah Bay, Mamsha Al Mugheirah](https://github.com/UAE-Camel/News/blob/main/markdown/1395303113733.md) | [🐦](https://twitter.com/UAECamelNews/status/) | 2022-12-23T06:23:44
+| [ADEK selects 1st cohort of Khotwa scholarship programme for international study](https://github.com/UAE-Camel/News/blob/main/markdown/1395303113832.md) | [🐦](https://twitter.com/UAECamelNews/status/) | 2022-12-23T06:23:44
+| [Fujairah Chamber discusses promoting trade relations with Belgium](https://github.com/UAE-Camel/News/blob/main/markdown/1395303113759.md) | [🐦](https://twitter.com/UAECamelNews/status/) | 2022-12-23T06:23:44
 
 
 
